@@ -38,7 +38,10 @@ h2 {
 }
 
 #container {
-	width: 600px;
-	margin: 0 auto;
+	width: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 25%;
+	margin-right: 25%;
 	text-align: center;
 }
